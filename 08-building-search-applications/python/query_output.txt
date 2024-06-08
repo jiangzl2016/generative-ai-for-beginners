@@ -1,0 +1,54 @@
+
+Videos similar to 'Today I want to learn about Azure machine learning.':
+ - Introduction to Azure ML Services [Part 1/4]
+   Summary: Parashar Sha introduces Azure ML Services in this episode of the AI Show. Azure ML...
+   YouTube: https://youtu.be/Eb7kyOJe5Kc?t=0
+   Similarity: 0.8735409198073983
+   Speakers: Parashar Sha
+ - What’s new with Azure Machine Learning
+   Summary: Chris from Azure Machine Learning provides an overview of the new capabilities in Azure Machine...
+   YouTube: https://youtu.be/YlWCeY_CWEg?t=0
+   Similarity: 0.8706551873198437
+   Speakers: Chris
+ - Azure Machine Learning Studio
+   Summary: Stephanie Lindsay, a Program Manager at Azure Machine Learning, introduces the new Azure Machine Learning...
+   YouTube: https://youtu.be/JNa4VV0d8T0?t=0
+   Similarity: 0.8697380776655267
+   Speakers: Stephanie Lindsay
+ - Time Series Forecasting with Azure Machine Learning
+   Summary: In this video, the speaker discusses time series forecasting with Azure Machine Learning. They demonstrate...
+   YouTube: https://youtu.be/mGr_c2UnOUI?t=7
+   Similarity: 0.869315888725123
+   Speakers: Hi, everyone. In this video, we are going to talk about time series forecasting with Azure Machine Learning.
+ - What’s new with Azure Machine Learning
+   Summary: Azure Machine Learning is a powerful tool for training and deploying machine learning models. It...
+   YouTube: https://youtu.be/YlWCeY_CWEg?t=914
+   Similarity: 0.8683292727315699
+   Speakers: Chris
+
+Videos similar to 'Generative AI':
+ - AI Builder | A World of AI at Your Fingertips
+   Summary: Microsoft has developed a drawing bot that uses a technology called Generative Adversarial Network (GAN)...
+   YouTube: https://youtu.be/sZCHUNm4Khw?t=730
+   Similarity: 0.8406308073374825
+   Speakers: Rob Nunez, Albert Dankwa, Ashish Bhatia
+ - Microsoft Learn | Developing solutions with Azure OpenAI
+   Summary: Rob Ivor Berry discusses the Microsoft Learn learning path on developing solutions with Azure OpenAI....
+   YouTube: https://youtu.be/foIxDIToDkU?t=0
+   Similarity: 0.8368306731592277
+   Speakers: Rob, Ivor Berry
+ - An Intuitive Approach to Machine Learning Models (Part 1 of 4)
+   Summary: Artificial intelligence (AI) and machine learning (ML) are often misunderstood concepts. AI can be thought...
+   YouTube: https://youtu.be/lPyK38sRWLI?t=184
+   Similarity: 0.8283650468055134
+   Speakers: Seth, Seth Juarez
+ - Data Science, Convolutional Neural Networks, and Machine Learning in the Cloud (Part 3 of 4)
+   Summary: In this video, the speaker discusses the use of Azure Machine Learning in the Cloud....
+   YouTube: https://youtu.be/0TwbqkQ9pxk?t=365
+   Similarity: 0.827510783426861
+   Speakers: Seth Juarez
+ - Being Responsible with Generative AI
+   Summary: The video discusses the use of language models in automated measurement pipelines for responsible AI....
+   YouTube: https://youtu.be/Mr5pWbKbc8Y?t=735
+   Similarity: 0.8231424495777849
+   Speakers: Sarah Bird
